@@ -1,0 +1,9 @@
+#mario {
+    display: flex;
+}
+
+#mario img {
+   height: 200px;
+   width: 150px;
+   object-fit: cover;
+}
